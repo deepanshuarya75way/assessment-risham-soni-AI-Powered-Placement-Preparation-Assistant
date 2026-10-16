@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "^19.2.8",
-    "react-dom": "^19.2.8"
+    "react-dom": "^19.2.8",
+    "remark-gfm": "^4.0.1",
+    "unified": "^11.0.5",
+    "vfile": "^6.0.3"
   },
   "devDependencies": {
     "@types/react": "^19.2.18",
